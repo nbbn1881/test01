@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f107dc6d4c984c45bdafd3bb15f98f0, type: 3}
+  m_Name: Sci-fi_Tutorial
+  m_EditorClassIdentifier: 
+  TutorialTitle:
+    m_Untranslated: "Sci-fi\u30C6\u30A4\u30B9\u30C8\u306A\u30A8\u30D5\u30A7\u30AF\u30C8\u306E\u5236\u4F5C"
+  m_TutorialTitle: 
+  m_ProgressTrackingEnabled: 1
+  m_LessonId: 270b4ae5-b335-49d0-9588-c41b9953b54d
+  m_Version: 1
+  m_Scene: {fileID: 102900000, guid: 73368bbc031e07549b23c1c30ee9d1fa, type: 3}
+  m_DefaultSceneCameraSettings:
+    m_CameraMode: 0
+    m_FocusMode: 0
+    m_Orthographic: 0
+    m_Size: 0
+    m_Pivot: {x: 0, y: 0, z: 0}
+    m_Rotation: {x: 0, y: 0, z: 0, w: 0}
+    m_FrameObject:
+      m_SceneGuid: 
+      m_GameObjectGuid: 
+      m_SerializedComponentType:
+        m_TypeName: 
+      m_ComponentIndex: 0
+      m_AssetObject: {fileID: 0}
+      m_Prefab: {fileID: 0}
+    m_Enabled: 0
+  m_WindowLayout: {fileID: 0}
+  m_Pages:
+    m_Items:
+    - {fileID: 11400000, guid: 9c599b92d020ab44fa3ecf952100fb64, type: 2}
+    - {fileID: 11400000, guid: a0d26190090fdd64cb9e61c79d2b2f88, type: 2}
+    - {fileID: 11400000, guid: b70b32dfb6081c54c9bf85bc2718a4d0, type: 2}
+    - {fileID: 11400000, guid: 5248220023430f741ab797ee02b17cb9, type: 2}
+    - {fileID: 11400000, guid: 316dd690e57eae648a44bdf48b1b8a91, type: 2}
+  Modified:
+    m_PersistentCalls:
+      m_Calls: []
+  Initiated:
+    m_PersistentCalls:
+      m_Calls: []
+  PageInitiated:
+    m_PersistentCalls:
+      m_Calls: []
+  GoingBack:
+    m_PersistentCalls:
+      m_Calls: []
+  Completed:
+    m_PersistentCalls:
+      m_Calls: []
+  Quit:
+    m_PersistentCalls:
+      m_Calls: []

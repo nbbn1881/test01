@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f107dc6d4c984c45bdafd3bb15f98f0, type: 3}
+  m_Name: SlashAnimation_Tutorial
+  m_EditorClassIdentifier: 
+  TutorialTitle:
+    m_Untranslated: "\u65AC\u6483\u30A2\u30CB\u30E1\u30FC\u30B7\u30E7\u30F3\u306B\u5408\u308F\u305B\u305F\u30A8\u30D5\u30A7\u30AF\u30C8\u5236\u4F5C"
+  m_TutorialTitle: 
+  m_ProgressTrackingEnabled: 1
+  m_LessonId: c24afd3f-961e-43a4-99cc-ca9f9129b0a3
+  m_Version: 1
+  m_Scene: {fileID: 102900000, guid: 2647b51091b3c5a40a11f1495ac2719c, type: 3}
+  m_DefaultSceneCameraSettings:
+    m_CameraMode: 0
+    m_FocusMode: 0
+    m_Orthographic: 0
+    m_Size: 0
+    m_Pivot: {x: 0, y: 0, z: 0}
+    m_Rotation: {x: 0, y: 0, z: 0, w: 0}
+    m_FrameObject:
+      m_SceneGuid: 
+      m_GameObjectGuid: 
+      m_SerializedComponentType:
+        m_TypeName: 
+      m_ComponentIndex: 0
+      m_AssetObject: {fileID: 0}
+      m_Prefab: {fileID: 0}
+    m_Enabled: 0
+  m_WindowLayout: {fileID: 0}
+  m_Pages:
+    m_Items:
+    - {fileID: 11400000, guid: c12d080c815b50746a02638b1280453d, type: 2}
+    - {fileID: 11400000, guid: ef01ffc8f26d3214fa1d560002d837cd, type: 2}
+    - {fileID: 11400000, guid: 500cc355fbbc1fb4c9efcbbc6a2e2994, type: 2}
+  Modified:
+    m_PersistentCalls:
+      m_Calls: []
+  Initiated:
+    m_PersistentCalls:
+      m_Calls: []
+  PageInitiated:
+    m_PersistentCalls:
+      m_Calls: []
+  GoingBack:
+    m_PersistentCalls:
+      m_Calls: []
+  Completed:
+    m_PersistentCalls:
+      m_Calls: []
+  Quit:
+    m_PersistentCalls:
+      m_Calls: []

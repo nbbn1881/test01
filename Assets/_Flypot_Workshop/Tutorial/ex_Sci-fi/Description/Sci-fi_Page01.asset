@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff771ccdf4150419d9ff4d342b069aae, type: 3}
+  m_Name: Sci-fi_Page01
+  m_EditorClassIdentifier: 
+  m_Paragraphs:
+    m_Items:
+    - m_Type: 7
+      Title:
+        m_Untranslated: 
+      Text:
+        m_Untranslated: 
+      m_Tutorial: {fileID: 0}
+      m_Image: {fileID: 2800000, guid: a3f15e4c403d0a34987e187c029df6f2, type: 3}
+      m_Video: {fileID: 0}
+      m_CriteriaCompletion: 0
+      m_Criteria:
+        m_Items: []
+      m_MaskingSettings:
+        m_MaskingEnabled: 0
+        m_UnmaskedViews: []
+      m_Summary: 
+      m_Description: 
+      m_InstructionBoxTitle: 
+      m_InstructionText: 
+      m_TutorialButtonText: 
+    - m_Type: 0
+      Title:
+        m_Untranslated: "Sci-fi\u30C6\u30A4\u30B9\u30C8\u306A\u30A8\u30D5\u30A7\u30AF\u30C8\u306E\u5236\u4F5C"
+      Text:
+        m_Untranslated: "Sci-fi\uFF08SF\u8ABF\u3001\u8FD1\u672A\u6765\u8ABF\uFF09\u306A\u30A8\u30D5\u30A7\u30AF\u30C8\u3092\u5236\u4F5C\u3057\u3066\u307F\u307E\u3057\u3087\u3046\u3002\r\n\u984C\u6750\u306F\u81EA\u7531\u3067\u3059\u3002\u307E\u305A\u306F\u3057\u3063\u304B\u308A\u3068\u8CC7\u6599\u96C6\u3081\u3092\u884C\u3044\u3001\u81EA\u5206\u304C\u5236\u4F5C\u3057\u305F\u3044\u30A4\u30E1\u30FC\u30B8\u3092\u56FA\u3081\u3066\u304B\u3089\r\n\u5236\u4F5C\u306B\u53D6\u308A\u639B\u304B\u308A\u307E\u3057\u3087\u3046\u3002\r\n\u8CC7\u6599\u96C6\u3081\u3092\u884C\u3063\u305F\u6642\u70B9\u3067\u4E00\u5EA6\u8B1B\u5E2B\u306B\u5236\u4F5C\u3059\u308B\u30A8\u30D5\u30A7\u30AF\u30C8\u306E\u8AAC\u660E\u3092\u884C\u3063\u3066\u304F\u3060\u3055\u3044\u3002\r\n\u8CEA\u554F\u7B49\u3082\u304A\u6C17\u8EFD\u306B\u3054\u76F8\u8AC7\u304F\u3060\u3055\u3044\u3002"
+      m_Tutorial: {fileID: 0}
+      m_Image: {fileID: 0}
+      m_Video: {fileID: 0}
+      m_CriteriaCompletion: 0
+      m_Criteria:
+        m_Items: []
+      m_MaskingSettings:
+        m_MaskingEnabled: 0
+        m_UnmaskedViews: []
+      m_Summary: 
+      m_Description: 
+      m_InstructionBoxTitle: 
+      m_InstructionText: 
+      m_TutorialButtonText: 
+  m_CameraSettings:
+    m_CameraMode: 0
+    m_FocusMode: 0
+    m_Orthographic: 0
+    m_Size: 0
+    m_Pivot: {x: 0, y: 0, z: 0}
+    m_Rotation: {x: 0, y: 0, z: 0, w: 0}
+    m_FrameObject:
+      m_SceneGuid: 
+      m_GameObjectGuid: 
+      m_SerializedComponentType:
+        m_TypeName: 
+      m_ComponentIndex: 0
+      m_AssetObject: {fileID: 0}
+      m_Prefab: {fileID: 0}
+    m_Enabled: 0
+  NextButton:
+    m_Untranslated: Next
+  DoneButton:
+    m_Untranslated: Done
+  m_NextButton: Next
+  m_DoneButton: Done
+  m_CompletedSound: {fileID: 0}
+  m_autoAdvance: 0
+  m_OnBeforePageShown:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnAfterPageShown:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnBeforeTutorialQuit:
+    m_PersistentCalls:
+      m_Calls: []
+  m_OnTutorialPageStay:
+    m_PersistentCalls:
+      m_Calls: []

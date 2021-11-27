@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89305aa391d1c5141bbe1628d930a2c5, type: 3}
+  m_Name: CONTENTS
+  m_EditorClassIdentifier: 
+  Modified:
+    m_PersistentCalls:
+      m_Calls: []
+  ParentContainer: {fileID: 0}
+  OrderInView: 0
+  BackgroundImage: {fileID: 0}
+  Title:
+    m_Untranslated: "Flypot\u30A8\u30D5\u30A7\u30AF\u30C8\u8B1B\u5EA7\u3000\u30D9\u30FC\u30B7\u30C3\u30AF\u30B3\u30FC\u30B9\u8AB2\u984C"
+  Subtitle:
+    m_Untranslated: "\u52D5\u753B\u3067\u57FA\u672C\u7684\u306A\u6A5F\u80FD\u3092\u5B66\u3073\u3064\u3064\u8AB2\u984C\u306E\u307B\u3046\u3092\u9032\u3081\u3066\u304F\u3060\u3055\u3044\u3002"
+  Description:
+    m_Untranslated: 
+  ProjectLayout: {fileID: 0}
+  Sections:
+  - OrderInView: 0
+    Heading:
+      m_Untranslated: "\u30C8\u30EC\u30A4\u30EB\u306E\u5B66\u7FD2\u3000\u2605\uFF11"
+    Text:
+      m_Untranslated: 
+    Metadata: 
+    Url: 
+    Image: {fileID: 0}
+    Tutorial: {fileID: 11400000, guid: ff9b0f25f1bc69b48976fd179d143ecf, type: 2}
+  - OrderInView: 2
+    Heading:
+      m_Untranslated: "\u30B3\u30EA\u30B8\u30E7\u30F3\u3092\u4F7F\u7528\u3057\u305F\u30B5\u30D6\u30A8\u30DF\u30C3\u30BF\u30FC\u306E\u653E\u51FA\u3000\u2605\uFF12"
+    Text:
+      m_Untranslated: 
+    Metadata: 
+    Url: 
+    Image: {fileID: 0}
+    Tutorial: {fileID: 11400000, guid: 58311cc7bd750824593ab9b6a170a366, type: 2}
+  - OrderInView: 4
+    Heading:
+      m_Untranslated: "\u706B\u82B1\u306E\u5236\u4F5C\u3000\u2605\uFF11"
+    Text:
+      m_Untranslated: 
+    Metadata: 
+    Url: 
+    Image: {fileID: 0}
+    Tutorial: {fileID: 11400000, guid: ad5c72c2ee4b5f8438525ecd5f7cb075, type: 2}
+  - OrderInView: 6
+    Heading:
+      m_Untranslated: "\u30D2\u30C3\u30C8\u30A8\u30D5\u30A7\u30AF\u30C8\u5236\u4F5C\u3000\u2605\uFF12"
+    Text:
+      m_Untranslated: 
+    Metadata: 
+    Url: 
+    Image: {fileID: 0}
+    Tutorial: {fileID: 11400000, guid: 603029e359c701a45b56e1bed775a588, type: 2}
+  - OrderInView: 8
+    Heading:
+      m_Untranslated: "\u30D9\u30FC\u30B9\u30B7\u30A7\u30FC\u30C0\u30FC\u3092\u4F5C\u6210\u3059\u308B\u3000\u2605\uFF12"
+    Text:
+      m_Untranslated: 
+    Metadata: 
+    Url: 
+    Image: {fileID: 0}
+    Tutorial: {fileID: 11400000, guid: 0f0b83609d67a6543992bb649237360e, type: 2}
+  - OrderInView: 9
+    Heading:
+      m_Untranslated: "\u5C5E\u6027\u3092\u6301\u3063\u305F\u7403\u30A8\u30D5\u30A7\u30AF\u30C8\u306E\u4F5C\u6210
+        \u3000\u2605\uFF12"
+    Text:
+      m_Untranslated: 
+    Metadata: 
+    Url: 
+    Image: {fileID: 0}
+    Tutorial: {fileID: 11400000, guid: dd8852f16eee26c49bf9dabebd75565c, type: 2}
+  - OrderInView: 10
+    Heading:
+      m_Untranslated: "\u9B54\u6CD5\u9663\u3068\u30D0\u30D5\u30A8\u30D5\u30A7\u30AF\u30C8\u306E\u5236\u4F5C\u3000\u2605\uFF13"
+    Text:
+      m_Untranslated: 
+    Metadata: 
+    Url: 
+    Image: {fileID: 0}
+    Tutorial: {fileID: 11400000, guid: d0854879b17052e418e9d86a4b664c67, type: 2}
+  - OrderInView: 11
+    Heading:
+      m_Untranslated: "\u65AC\u6483\u30A2\u30CB\u30E1\u30FC\u30B7\u30E7\u30F3\u306B\u5408\u308F\u305B\u305F\u30A8\u30D5\u30A7\u30AF\u30C8\u5236\u4F5C\u3000\u2605\uFF14"
+    Text:
+      m_Untranslated: 
+    Metadata: 
+    Url: 
+    Image: {fileID: 0}
+    Tutorial: {fileID: 11400000, guid: e4bf8504c4070f747b1917da27963add, type: 2}
+  - OrderInView: 16
+    Heading:
+      m_Untranslated: "EX  Toon\u30C6\u30A4\u30B9\u30C8\u306A\u30A8\u30D5\u30A7\u30AF\u30C8\u306E\u5236\u4F5C\u3000\u2605\uFF14"
+    Text:
+      m_Untranslated: 
+    Metadata: 
+    Url: 
+    Image: {fileID: 0}
+    Tutorial: {fileID: 11400000, guid: 638ad5dbae8146d40a504fecbbda394d, type: 2}
+  - OrderInView: 18
+    Heading:
+      m_Untranslated: "EX  Sci-fi\u30C6\u30A4\u30B9\u30C8\u306A\u30A8\u30D5\u30A7\u30AF\u30C8\u306E\u5236\u4F5C\u3000\u2605\uFF14"
+    Text:
+      m_Untranslated: 
+    Metadata: 
+    Url: 
+    Image: {fileID: 0}
+    Tutorial: {fileID: 11400000, guid: ef42ca360540e744f8bf288036512104, type: 2}
+  - OrderInView: 20
+    Heading:
+      m_Untranslated: "EX  \u30D3\u30FC\u30E0\u30A8\u30D5\u30A7\u30AF\u30C8\u306E\u5236\u4F5C\u3000\u2605\uFF14"
+    Text:
+      m_Untranslated: 
+    Metadata: 
+    Url: 
+    Image: {fileID: 0}
+    Tutorial: {fileID: 11400000, guid: 4b3c6d8d8c77e964ab63563d61bc0964, type: 2}
+  - OrderInView: 22
+    Heading:
+      m_Untranslated: "EX  \u30B5\u30C3\u30AB\u30FC\u5FC5\u6BBA\u6280\u30B7\u30E5\u30FC\u30C8\u5236\u4F5C\u3000\u2605\uFF14"
+    Text:
+      m_Untranslated: 
+    Metadata: 
+    Url: 
+    Image: {fileID: 0}
+    Tutorial: {fileID: 11400000, guid: 8ed6e9b22a868b047af7f9e79e7c76a2, type: 2}
