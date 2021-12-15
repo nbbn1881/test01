@@ -710,7 +710,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isGlobal: 1
+  m_IsGlobal: 1
   priority: 0
   blendDistance: 0
   weight: 1
@@ -722,6 +722,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 537655675}
     m_Modifications:
+    - target: {fileID: 1654900094264387192, guid: 845e28a415bb67045b42b404c56cc19b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1873068693852277975, guid: 845e28a415bb67045b42b404c56cc19b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2539200526855038987, guid: 845e28a415bb67045b42b404c56cc19b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2657822057090641971, guid: 845e28a415bb67045b42b404c56cc19b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3265063562760491816, guid: 845e28a415bb67045b42b404c56cc19b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7422246782988620425, guid: 845e28a415bb67045b42b404c56cc19b, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -769,6 +789,14 @@ PrefabInstance:
     - target: {fileID: 7583807034326984249, guid: 845e28a415bb67045b42b404c56cc19b, type: 3}
       propertyPath: m_Name
       value: FX_MagicCircle_final
+      objectReference: {fileID: 0}
+    - target: {fileID: 8003600675852723511, guid: 845e28a415bb67045b42b404c56cc19b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8329279076228274222, guid: 845e28a415bb67045b42b404c56cc19b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 845e28a415bb67045b42b404c56cc19b, type: 3}
