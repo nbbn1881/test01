@@ -42,7 +42,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DistortionTexture:
-        m_Texture: {fileID: 2800000, guid: f5b37614b32ec1e4fb5d4592893041a1, type: 3}
+        m_Texture: {fileID: 2800000, guid: 3b72abc8d6d1239438e8e5672fedc08e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
@@ -54,7 +54,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTexture:
-        m_Texture: {fileID: 2800000, guid: ad6dd7b72041b834a99126c7be193e8b, type: 3}
+        m_Texture: {fileID: 2800000, guid: 816f100732dd5d04d9145b3f86365534, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskTexture:
@@ -131,20 +131,20 @@ Material:
     - _Cull: 2
     - _Cutoff: 0.5
     - _DstBlend: 1
-    - _Emission: 1.86
+    - _Emission: 1.98
     - _FresnelInvert: 0
     - _FresnelStrength: 0
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _MainTextureBrightness: 0.001
+    - _MainTextureBrightness: 0
     - _MaskStrength: 0.95
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _Saturation: 1
+    - _Saturation: 0.82
     - _SmoothnessTextureChannel: 0
     - _SoftParticleOffset: 0
     - _SpecularHighlights: 1
@@ -185,8 +185,8 @@ Material:
     - Vector2_D56E0392: {r: 0, g: 0, b: 0, a: 0}
     - Vector2_E250D089: {r: 1, g: 1, b: 0, a: 0}
     - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
-    - _DistortionStrength: {r: 0.01, g: 0.01, b: 0, a: 0}
-    - _Distortion_Scroll: {r: 0.01, g: 0.01, b: 0, a: 0}
+    - _DistortionStrength: {r: 0.04, g: 0.03, b: 0, a: 0}
+    - _Distortion_Scroll: {r: 0.07, g: 0.04, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _Main_Scroll: {r: 0, g: 0, b: 0, a: 0}
     - _Mask_Scroll: {r: 0, g: 0, b: 0, a: 0}
