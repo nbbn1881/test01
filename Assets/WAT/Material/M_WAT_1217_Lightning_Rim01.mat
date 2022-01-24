@@ -119,7 +119,7 @@ Material:
     - _Emission: 3.8
     - _EnvironmentReflections: 1
     - _FresnelInvert: 0
-    - _FresnelStrength: 6.33
+    - _FresnelStrength: 4.54
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
